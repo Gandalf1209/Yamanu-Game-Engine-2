@@ -1,4 +1,4 @@
-Yamanu-Game-Engine-2
+Yamanu Game Engine 2 Q&A
 ====================
 
 <h3>What is Yamanu Game Engine?</h3>
