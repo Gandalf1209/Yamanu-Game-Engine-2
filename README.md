@@ -30,3 +30,6 @@ No. I believe that people should be able to make games for free, and that the ut
 
 <h3>Will there be a Yamanu 3?</h3>
 Possibly, but I'd like to get through Yamanu 2 first. :D
+
+<h3>Can I help develop Yamanu?</h3>
+You can fork the repository if you want!
