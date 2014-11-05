@@ -20,7 +20,7 @@ Before the end of November 2014.
 The only documentation will be the JavaDocs in the code. I will be uploading a video once Yamanu 2 is ready for the public, that will explain the basic features of the game engine
 
 <h3>Where will this video be?</h3>
-<a href="http://www.youtube.com/TheGandalf1209">Here</a>
+My YouTube channel is <a href="http://www.youtube.com/TheGandalf1209">here</a> which is where the video will be.
 
 <h3>Do I have to credit Yamanu in my games?</h3>
 No, but I would greatly appreciate it!
