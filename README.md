@@ -10,9 +10,6 @@ I realized all of the problems with the original Yamanu, and knew that it was st
 <h3>What's better about this new Yamanu?</h3>
 There are many things that are much better that before. It's more object-oriented. When I started the original Yamanu, I didn't have as large of a handle on OOP as I do now. Now things are more flexible because of this. There is also less "main class" code to be written, and most IDE's will auto complete certain code, so it's faster and more concise. It's more flexible. The original Yamanu was not fitting to everyone's needs, but mostly to mine. If I want Yamanu to be useable by everyone, then it needs to be more flexible, which I think it is so far. And instead of adding really stupid useless stuff I myself would only use, I will be adding things that apply to everyone.
 
-<h3>Yamanu 2 is missing! There's nothing here!</h3>
-I know. It's not totally finished yet, but it will be uploaded soon.
-
 <h3>When will it be available?</h3>
 Before the end of November 2014.
 
