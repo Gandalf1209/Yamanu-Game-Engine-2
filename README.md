@@ -32,4 +32,4 @@ No. I believe that people should be able to make games for free, and that the ut
 Possibly, but I'd like to get through Yamanu 2 first. :D
 
 <h3>Can I help develop Yamanu?</h3>
-You can fork the repository if you want!
+You can fork the repository, or download the files and edit it how you want, but making official changes is really up to me to decide. If I like it enough I can add it though!
