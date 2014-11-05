@@ -46,9 +46,9 @@ public class Keys {
 	public static int DOWN = 40;
 
 	public static int ESCAPE = 27;
-	public static int BACKSPACE = 8;
+	public static int BACKSPACE = '\b';
 	public static int TAB = 9;
-	public static int ENTER = 13;
+	public static int ENTER = '\n';
 	public static int SHIFT = 16;
 	public static int CONTROL = 17;
 	public static int ALT = 18;
