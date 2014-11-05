@@ -17,7 +17,7 @@ I know. It's not totally finished yet, but it will be uploaded soon.
 Before the end of November 2014.
 
 <h3>What about documentation?</h3>
-The only documentation will be the JavaDocs in the code. I will be uploading a video once Yamanu 2 is ready for the public, that will explain the basic features of the game engine
+The only documentation will be the JavaDocs in the code. I will be uploading a video once Yamanu 2 is ready for the public, that will explain the basic features of the game engine. I might make the GitHub wiki the area for documentation, but that is not very likely.
 
 <h3>Where will this video be?</h3>
 My YouTube channel is <a href="http://www.youtube.com/TheGandalf1209">here</a> which is where the video will be.
